@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/retrov2/static/css/main.45c97232.chunk.css",
+    "main.js": "/retrov2/static/js/main.cb05f105.chunk.js",
+    "main.js.map": "/retrov2/static/js/main.cb05f105.chunk.js.map",
+    "runtime-main.js": "/retrov2/static/js/runtime-main.09eb8ec3.js",
+    "runtime-main.js.map": "/retrov2/static/js/runtime-main.09eb8ec3.js.map",
+    "static/js/2.701120aa.chunk.js": "/retrov2/static/js/2.701120aa.chunk.js",
+    "static/js/2.701120aa.chunk.js.map": "/retrov2/static/js/2.701120aa.chunk.js.map",
+    "static/js/3.297471f9.chunk.js": "/retrov2/static/js/3.297471f9.chunk.js",
+    "static/js/3.297471f9.chunk.js.map": "/retrov2/static/js/3.297471f9.chunk.js.map",
+    "index.html": "/retrov2/index.html",
+    "static/css/main.45c97232.chunk.css.map": "/retrov2/static/css/main.45c97232.chunk.css.map",
+    "static/js/2.701120aa.chunk.js.LICENSE.txt": "/retrov2/static/js/2.701120aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09eb8ec3.js",
+    "static/js/2.701120aa.chunk.js",
+    "static/css/main.45c97232.chunk.css",
+    "static/js/main.cb05f105.chunk.js"
+  ]
+}
